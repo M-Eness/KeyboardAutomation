@@ -30,8 +30,8 @@ The script follows a simple logic:
 1.  **Clone the Repository (Optional):**
 
     ```bash
-    git clone https://github.com/your-username/keyboard-automation.git
-    cd keyboard-automation
+    git clone https://github.com/M-Eness/KeyboardAutomation.git
+    cd KeyboardAutomation
     ```
 
 2.  **Install the Required Libraries:**
